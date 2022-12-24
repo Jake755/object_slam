@@ -1,0 +1,10 @@
+scene_name: kitti
+
+# initial pose
+init_x:       0
+init_y:       0
+init_z:       1.7
+init_qx:      -0.7071
+init_qy:      0
+init_qz:      0
+init_qw:      0.7071

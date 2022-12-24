@@ -1,0 +1,11 @@
+*~
+Examples/Monocular/mono_kitti
+Vocabulary/ORBvoc.txt
+Outputs/AllFrameTrajectory.txt
+Outputs/AllFrameTrajectoryKITTI.txt
+Outputs/KeyFrameTrajectory.txt
+Thirdparty/DBoW2/build/
+Thirdparty/DBoW2/lib/
+Thirdparty/g2o/build/
+Thirdparty/g2o/build/CMakeFiles/
+Thirdparty/g2o/lib/
