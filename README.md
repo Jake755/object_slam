@@ -2,7 +2,7 @@
 
 # Object SLAM #
 Open source code for Online Object-Level SLAM with Dual Bundle Adjustment.
-![image](./data/image.png)
+![image](https://raw.githubusercontent.com/Jake755/object_slam/master/data/image.png)
 
 ## Installation
 
