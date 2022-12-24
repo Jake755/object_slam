@@ -7,7 +7,7 @@ Open source code for Online Object-Level SLAM with Dual Bundle Adjustment.
 ## Installation
 
 ### Prerequisites
-We test the source code in **ROS Melodic, Ubuntu 18.04, Opencv 3**. Create or use existing a ros workspace.
+We test the source code in **ROS Melodic, Ubuntu 18.04, Opencv 3**. Create or use a existing ros workspace.
 ```bash
 mkdir -p ~/object_slam/src
 cd ~/object_slam/src
